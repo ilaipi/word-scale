@@ -1,0 +1,14 @@
+{
+  "name": "word-scale",
+  "version": "1.0.0",
+  "description": "把word文件的内容收缩 试卷类型的word 题目下面每行一个选项，所有选项合并为一行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy Yang",
+  "license": "ISC",
+  "dependencies": {
+    "officeparser": "^2.2.2"
+  }
+}
